@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
-#define INF 100
+#define INF 100 
 
 void separador() {
     printf("------------------------------------------\n");
